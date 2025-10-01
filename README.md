@@ -4,7 +4,7 @@ This project automates customer support email replies using **n8n**, **Gmail**, 
 
 
 📄 Full documentation:  
-[Email Support Automation with n8n.pdf]([url](https://github.com/ravindersuddula/Email-Automation-using-n-n/blob/3eb0cacba8a7ea42468d637112b229d028899aec/Email%20Support%20Automation%20with%20n8n.pdf))
+[Email Support Automation with n8n.pdf]
 
 ---
 
