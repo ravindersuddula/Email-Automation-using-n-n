@@ -1,6 +1,8 @@
 # Email Support Automation with n8n
 
 This project automates customer support email replies using **n8n**, **Gmail**, **Google Sheets**, and **Google Gemini AI**.  
+<img width="1319" height="580" alt="image" src="https://github.com/user-attachments/assets/319ab546-5600-4333-8c56-6ba61fa70b4a" />
+
 
 📄 Full documentation:  
 [Email_Support_Automation_Documentation.pdf](docs/Email_Support_Automation_Documentation.pdf)
